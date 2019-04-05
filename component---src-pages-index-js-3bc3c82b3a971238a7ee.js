@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{140:function(e,n,t){"use strict";t.r(n);var o=t(0),r=t.n(o);n.default=function(){return r.a.createElement("div",{style:{color:"purple",fontSize:"4em"}},"Hello gatsby!")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-3bc3c82b3a971238a7ee.js.map
