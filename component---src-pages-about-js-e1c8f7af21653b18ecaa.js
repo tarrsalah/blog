@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{141:function(n,e,o){"use strict";o.r(e);var t=o(0),a=o.n(t),c=o(145).a.h1.withConfig({displayName:"about__Title",componentId:"sc-11hhw3f-0"})(["color:green;"]);e.default=function(){return a.a.createElement(c,null,"About js")}}}]);
-//# sourceMappingURL=component---src-pages-about-js-e1c8f7af21653b18ecaa.js.map
